@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mahnoor Anjum",
+    "label": "Engineer",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "mahnoor.anjum@unsw.edu.au",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am a second year PhD student in the School of Electrical Engineering and Telecommunications at UNSW Sydney working on integrated sensing and communication systems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "UNSW, Sydney",
+      "postalCode": "NSW 2033",
+      "city": "Sydney",
+      "countryCode": "AUS",
+      "region": "Sydney"
     },
     "profiles": [
       {
