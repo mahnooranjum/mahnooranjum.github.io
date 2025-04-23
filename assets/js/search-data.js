@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "My academic experience is listed here.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-titled-service-fairness-enhancement-for-bdris-assisted-fluid-antenna-systems-accepted-for-presentation-at-the-2025-ieee-101st-vehicular-technology-conference-ieee-vtc2025-spring",
+            },},{id: "news-paper-titled-power-efficient-transceiver-design-for-full-duplex-dual-function-radar-communication-systems-accepted-for-presentation-in-the-2024-ieee-25th-international-workshop-on-signal-processing-advances-in-wireless-communications-spawc",
+          title: 'Paper titled “Power-Efficient Transceiver Design for Full-Duplex Dual-Function Radar Communication Systems” accepted for...',
+          description: "",
+          section: "News",},{id: "news-paper-titled-service-fairness-enhancement-for-bdris-assisted-fluid-antenna-systems-accepted-for-presentation-at-the-2025-ieee-101st-vehicular-technology-conference-ieee-vtc2025-spring",
           title: 'Paper titled “Service fairness enhancement for BDRIS assisted fluid antenna systems” accepted for...',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-for-presentation-at-the-2025-international-conference-on-communications-ieee-icc-titles-qos-aware-power-minimization-for-fluid-antennas-assisted-integrated-sensing-and-communication-and-green-transceiver-design-for-integrated-sensing-and-backscatter-communication-with-qos-demands",
