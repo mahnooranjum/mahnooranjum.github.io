@@ -411,10 +411,12 @@ ninja.data = [{
           section: "News",},{id: "news-paper-titled-service-fairness-enhancement-for-bdris-assisted-fluid-antenna-systems-accepted-for-presentation-at-the-2025-ieee-101st-vehicular-technology-conference-ieee-vtc2025-spring",
           title: 'Paper titled “Service fairness enhancement for BDRIS assisted fluid antenna systems” accepted for...',
           description: "",
-          section: "News",},{id: "news-two-papers-accepted-for-presentation-at-the-2025-international-conference-on-communications-ieee-icc-titles-qos-aware-power-minimization-for-fluid-antennas-assisted-integrated-sensing-and-communication-and-green-transceiver-design-for-integrated-sensing-and-backscatter-communication-with-qos-demands",
-          title: 'Two papers accepted for presentation at the 2025 International Conference on Communications (IEEE...',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
-          section: "News",},{id: "news-awarded-the-development-and-research-training-grant-amount-3000-from-unsw-sydney-australia",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-awarded-the-development-and-research-training-grant-amount-3000-from-unsw-sydney-australia",
           title: 'Awarded the Development and Research Training Grant, amount $3000, from UNSW, Sydney, Australia....',
           description: "",
           section: "News",},{id: "projects-project-1",
