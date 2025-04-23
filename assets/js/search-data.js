@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -433,16 +426,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-paper-titled-service-fairness-enhancement-for-bdris-assisted-fluid-antenna-systems-accepted-for-presentation-at-the-2025-ieee-101st-vehicular-technology-conference-ieee-vtc2025-spring",
+          title: 'Paper titled “Service fairness enhancement for BDRIS assisted fluid antenna systems” accepted for...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-two-papers-accepted-for-presentation-at-the-2025-international-conference-on-communications-ieee-icc-titles-qos-aware-power-minimization-for-fluid-antennas-assisted-integrated-sensing-and-communication-and-green-transceiver-design-for-integrated-sensing-and-backscatter-communication-with-qos-demands",
+          title: 'Two papers accepted for presentation at the 2025 International Conference on Communications (IEEE...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-awarded-the-development-and-research-training-grant-amount-3000-from-unsw-sydney-australia",
+          title: 'Awarded the Development and Research Training Grant, amount $3000, from UNSW, Sydney, Australia....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
