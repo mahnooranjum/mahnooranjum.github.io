@@ -78,6 +78,9 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-the-development-and-research-training-grant-amount-3000-from-unsw-sydney-australia",
           title: 'Awarded the Development and Research Training Grant, amount $3000, from UNSW, Sydney, Australia....',
           description: "",
+          section: "News",},{id: "news-paper-titled-green-transceiver-design-and-antenna-selection-for-qos-aware-integrated-sensing-and-communication-systems-accepted-for-publication-in-ieee-transactions-on-green-communications-and-networking",
+          title: 'Paper titled “Green Transceiver Design and Antenna Selection for QoS-Aware Integrated Sensing and...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
