@@ -13,7 +13,7 @@ profile:
     <p>University of New South Wales,</p>
     <p>Sydney, NSW 2033</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -29,6 +29,6 @@ latest_posts:
 
 Mahnoor Anjum (Student Member, IEEE) is pursuing her Ph.D. in Electrical Engineering at the University of New South Wales, Sydney, Australia. She received her BS and MS in Electrical Engineering from the National University of Sciences and Technology, Pakistan, in 2019 and 2022, respectively. She has also been a Visiting Researcher at Kyung Hee University, South Korea. Her research interests include integrated sensing and communication systems, massive MIMO, internet-of-things, and artificial intelligence for wireless systems. 
 
-She was awarded the IEEE GLOBECOM WKSHPS best paper award in 2023, and received the exemplary reviewer award for IEEE Wireless Communications Letters in 2024. She was also awarded the Development and Research Training Grant from UNSW, Sydney in 2025. She has served as a technical program committee member for flagship conferences such as IEEE VTC and IEEE ICC, and published in reputed conferences and journals, including IEEE Transactions on Green Communications and Networking, IEEE Internet of Things Magazine, Elsevier Computer Communications, MDPI Energies, IEEE ICC, IEEE GLOBECOM, IEEE VTC, and IEEE SPAWC. 
+She was awarded the IEEE GLOBECOM WKSHPS best paper award in 2023, and received the exemplary reviewer award for IEEE Wireless Communications Letters in 2024. She was also awarded the Development and Research Training Grant from UNSW, Sydney in 2025. She has served as a technical program committee member for flagship conferences such as IEEE VTC and IEEE ICC, and published in reputed conferences and journals, including IEEE Transactions on Green Communications and Networking, IEEE Internet of Things Magazine, IEEE Wireless Communications Letters, Elsevier Computer Communications, IEEE ICC, IEEE GLOBECOM, IEEE VTC, and IEEE SPAWC. 
 
 <!-- Also she loves [this](https://en.wikipedia.org/wiki/Arcane_(TV_series)). -->
