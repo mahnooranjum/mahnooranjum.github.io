@@ -13,9 +13,12 @@ nav_order: 2
 
 <!-- {% include bib_search.liquid %}
 
-<div class="publications">
+<!-- <div class="publications"> -->
 
-{% bibliography %} -->
+<!-- {% bibliography %} --> -->
+
+
+
 <style>
 .pubrow{display:grid;grid-template-columns:6ch 1fr;gap:1rem;margin:.35rem 0 .9rem}
 .pubrow .label{font-weight:700;white-space:nowrap}
