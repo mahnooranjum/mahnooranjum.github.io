@@ -80,7 +80,7 @@ nav_order: 2
 <div class="pubrow">
   <div class="label">[J1]</div>
   <div class="content"><strong>A battery health monitoring method using machine learning: A data-driven approach</strong><br>
-    <small><em><u>M Anjum</u>, MA Khan, SA Hassan, HA Khalid, A Gastli, LB Brahim</em></small><br>
+    <small>SS Sheikh, <em><u>M Anjum</u>, MA Khan, SA Hassan, HA Khalid, A Gastli, LB Brahim</em></small><br>
     <a href="https://www.mdpi.com/1996-1073/13/14/3658">MDPI Energies</a>
   </div>
 </div>
