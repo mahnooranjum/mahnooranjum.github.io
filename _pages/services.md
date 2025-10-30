@@ -21,6 +21,7 @@ nav_order: 6
 
 | **Year** | **Conference / Journal** |
 |-----------|--------------------------|
+| 2025 | IEEE Transactions on Green Communications and Networking |
 | 2025 | IEEE Transactions on Communications |
 | 2025 | IEEE Communications Letters |
 | 2025 | IEEE Wireless Communications Letters |
