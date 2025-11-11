@@ -96,6 +96,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-drl-based-user-fairness-in-bdris-assisted-elaa-systems-accepted-in-ieee-wireless-communications-letters-authors-ma-khan-m-anjum-d-mishra-h-jung-tq-duong",
           title: 'Paper “DRL-based User Fairness in BDRIS-assisted ELAA Systems” accepted in IEEE Wireless Communications...',
           description: "",
+          section: "News",},{id: "news-invited-to-serve-on-the-technical-program-committee-tpc-for-ieee-icc-2026-wireless-communications-track",
+          title: 'Invited to serve on the Technical Program Committee (TPC) for IEEE ICC 2026,...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
