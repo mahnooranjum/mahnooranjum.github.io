@@ -99,6 +99,9 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-serve-on-the-technical-program-committee-tpc-for-ieee-icc-2026-wireless-communications-track",
           title: 'Invited to serve on the Technical Program Committee (TPC) for IEEE ICC 2026,...',
           description: "",
+          section: "News",},{id: "news-presented-a-poster-on-ai-empowered-project-based-learning-at-the-unsw-s-education-festival-2025",
+          title: 'Presented a poster on AI-Empowered Project-Based Learning at the UNSW’s Education Festival 2025....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
