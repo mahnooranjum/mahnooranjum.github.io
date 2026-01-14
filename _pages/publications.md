@@ -89,6 +89,14 @@ nav_order: 2
 <div class="section-title"></div>
 
 <div class="pubrow">
+  <div class="label">[C12]</div>
+  <div class="content"><strong>Integrating AI in Project-Based Engineering Education: Strengthening Course Design and Assessment Integrity</strong><br>
+    <small><em><u>M Anjum</u>, T Zhang, D Mishra, E. Ambikairajah</em></small><br>
+    EDUCON 2026
+  </div>
+</div>
+
+<div class="pubrow">
   <div class="label">[C11]</div>
   <div class="content"><strong>DRL-based Max-Min Fairness in Fluid RIS-aided Fluid Antenna Systems</strong><br>
     <small><em><u>M Anjum</u>, MA Khan, D Mishra, H Jung, A Seneviratne</em></small><br>
