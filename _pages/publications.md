@@ -89,6 +89,15 @@ nav_order: 2
 <div class="section-title"></div>
 
 <div class="pubrow">
+  <div class="label">[C13]</div>
+  <div class="content"><strong>Reinforcement Learning-based Resource Allocation in Secure BDRIS-Aided Movable Antenna Systems</strong><br>
+    <small><em>MA Khan,<u>M Anjum</u>, D Mishra, H Jung</em></small><br>
+    ICC 2026
+  </div>
+</div>
+
+
+<div class="pubrow">
   <div class="label">[C12]</div>
   <div class="content"><strong>Integrating AI in Project-Based Engineering Education: Strengthening Course Design and Assessment Integrity</strong><br>
     <small><em><u>M Anjum</u>, T Zhang, D Mishra, E. Ambikairajah</em></small><br>
