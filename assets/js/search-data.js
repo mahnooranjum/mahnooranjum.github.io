@@ -108,6 +108,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-integrating-ai-in-project-based-engineering-education-strengthening-course-design-and-assessment-integrity-accepted-for-presentation-at-the-ieee-global-engineering-education-conference-educon-2026-cairo-egypt",
           title: 'Paper Integrating AI in Project-Based Engineering Education: Strengthening Course Design and Assessment Integrity...',
           description: "",
+          section: "News",},{id: "news-paper-reinforcement-learning-based-resource-allocation-in-secure-bdris-aided-movable-antenna-systems-accepted-for-presentation-at-the-ieee-international-conference-on-communications-glasgow-scotland-uk",
+          title: 'Paper Reinforcement Learning-based Resource Allocation in Secure BDRIS-Aided Movable Antenna Systems accepted for...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
