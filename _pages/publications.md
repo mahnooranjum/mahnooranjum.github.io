@@ -30,6 +30,15 @@ nav_order: 2
 <div class="section-title"></div>
 
 <div class="pubrow">
+  <div class="label">[J8]</div>
+  <div class="content"><strong>Energy-efficient Cell-free Integrated Sensing and Backscatter Communication for Sustainable Networks</strong><br>
+    <small><em><u>M Anjum</u>, D Mishra</em></small><br>
+    <a href="https://www.mdpi.com/journal/energies">MDPI Energies</a>
+  </div>
+</div>
+
+
+<div class="pubrow">
   <div class="label">[J7]</div>
   <div class="content"><strong>DRL-based User Fairness in BDRIS-assisted ELAA Systems</strong><br>
     <small><em>MA Khan, <u>M Anjum</u>, D Mishra, H Jung, TQ Duong</em></small><br>
