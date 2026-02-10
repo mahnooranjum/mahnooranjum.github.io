@@ -111,6 +111,12 @@ ninja.data = [{
           section: "News",},{id: "news-paper-reinforcement-learning-based-resource-allocation-in-secure-bdris-aided-movable-antenna-systems-accepted-for-presentation-at-the-ieee-international-conference-on-communications-glasgow-scotland-uk",
           title: 'Paper Reinforcement Learning-based Resource Allocation in Secure BDRIS-Aided Movable Antenna Systems accepted for...',
           description: "",
+          section: "News",},{id: "news-paper-energy-efficient-cell-free-integrated-sensing-and-backscatter-communication-for-sustainable-networks-accepted-in-mdpi-energies-authors-m-anjum-d-mishra",
+          title: 'Paper “Energy-efficient Cell-free Integrated Sensing and Backscatter Communication for Sustainable Networks” accepted in...',
+          description: "",
+          section: "News",},{id: "news-appointed-head-lab-demonstrator-for-elec4601-digital-and-embedded-systems-design-school-of-electrical-engineering-and-telecommunications-unsw-sydney",
+          title: 'Appointed Head Lab Demonstrator for ELEC4601 Digital and Embedded Systems Design, School of...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
