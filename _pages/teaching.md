@@ -6,6 +6,9 @@ description:
 nav: true
 nav_order: 6
 ---
+- **Head Lab Demonstrator | [ELEC4601 Digital and Embedded Systems Design](https://www.handbook.unsw.edu.au/undergraduate/courses//ELEC4601)**  
+  _Feb 2026 – May 2026_  
+  School of Electrical Engineering and Telecommunications, UNSW, Sydney
 
 - **Lab Demonstrator | [ELEC3104 Digital Signal Processing](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/ELEC3104/)**  
   _Sep 2025 – Dec 2025_  
