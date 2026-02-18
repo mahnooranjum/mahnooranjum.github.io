@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-awards-amp-honors",
+          title: "awards &amp; honors",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
+          },
         },{id: "nav-news",
           title: "news",
           description: "",
@@ -116,6 +123,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-appointed-head-lab-demonstrator-for-elec4601-digital-and-embedded-systems-design-school-of-electrical-engineering-and-telecommunications-unsw-sydney",
           title: 'Appointed Head Lab Demonstrator for ELEC4601 Digital and Embedded Systems Design, School of...',
+          description: "",
+          section: "News",},{id: "news-recognized-as-an-exemplary-reviewer-2025-by-ieee-wireless-communications-letters-wcl",
+          title: 'Recognized as an Exemplary Reviewer (2025) by IEEE Wireless Communications Letters (WCL).',
           description: "",
           section: "News",},{
         id: 'social-email',
