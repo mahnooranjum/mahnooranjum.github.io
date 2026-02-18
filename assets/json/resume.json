@@ -14,48 +14,6 @@
       "region": "Sydney"
     }
   },
-  "awards": [
-    {
-      "title": "Development and Research Training Grant",
-      "issuer": "UNSW, Sydney, Australia",
-      "date": "2025"
-    },
-    {
-      "title": "Exemplary Reviewer Award",
-      "issuer": "IEEE Wireless Communications Letters",
-      "date": "2024"
-    },
-    {
-      "title": "Best Paper Award, 3rd Workshop on Sustainable and Resilient Industrial Networks",
-      "issuer": "IEEE GLOBECOM",
-      "date": "2023"
-    },
-    {
-      "title": "University International Postgraduate Award (UIPA)",
-      "issuer": "UNSW, Sydney, Australia",
-      "date": "2023"
-    },
-    {
-      "title": "Distinction in Master of Science in Electrical Engineering",
-      "issuer": "NUST, Pakistan",
-      "date": "2022"
-    },
-    {
-      "title": "Rector's Medal Nomination for Bachelor Thesis",
-      "issuer": "NUST, Pakistan",
-      "date": "2019"
-    },
-    {
-      "title": "A1 Exceptional in Higher Secondary School Certification (HSSC)",
-      "issuer": "FBISE, Islamabad, Pakistan",
-      "date": "2014"
-    },
-    {
-      "title": "A+ Distinction in Secondary School Certification (SSC)",
-      "issuer": "BISE, Rawalpindi, Pakistan",
-      "date": "2012"
-    }
-  ],
   "education": [
     {
       "institution": "University of New South Wales, Sydney, Australia",
@@ -73,7 +31,6 @@
       "studyType": "Master of Electrical Engineering",
       "startDate": "2020",
       "endDate": "2022",
-      "gpa": "4.0/4.0",
       "thesis": "Optimization of RIS-assisted communication systems using machine learning",
       "advisor": "Prof. Syed Ali Hassan"
     },
@@ -82,7 +39,6 @@
       "studyType": "Bachelor of Electrical Engineering",
       "startDate": "2015",
       "endDate": "2019",
-      "gpa": "3.1/4.0",
       "thesis": "Design and implementation of an object tracking system using LoRa technology",
       "advisor": "Prof. Syed Ali Hassan"
     }
