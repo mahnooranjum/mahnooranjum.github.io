@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-awards-amp-honors",
-          title: "awards &amp; honors",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/awards/";
-          },
         },{id: "nav-news",
           title: "news",
           description: "",
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-awards-amp-honors",
+          title: "awards &amp; honors",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
           },
         },{id: "nav-cv",
           title: "cv",
