@@ -135,6 +135,13 @@ ninja.data = [{
           window.open("mailto:%6D%61%68%6E%6F%6F%72.%61%6E%6A%75%6D@%75%6E%73%77.%65%64%75.%61%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/mahnooranjum", "_blank");
+        },
+      },{
         id: 'social-ieee',
         title: 'IEEE Xplore',
         section: 'Socials',
@@ -147,6 +154,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/mahnooranjum", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-3317-1597", "_blank");
         },
       },{
         id: 'social-researchgate',
