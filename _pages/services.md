@@ -11,6 +11,7 @@ nav_order: 6
 
 | **Year** | **Conference / Track** |
 |-----------|------------------------|
+| 2026 | IEEE Global Communications Conference (GLOBECOM) — *Track: Communication and Information System Security* |
 | 2026 | IEEE International Conference on Communications (ICC) — *Track: Wireless Communications* |
 | 2025 | IEEE International Conference on Communications (ICC) — *Track: Integrated Sensing and Communications* |
 | 2024 | IEEE Vehicular Technology Conference (VTC) – Spring — *Track: UAV Communications, Vehicular Networks, and Telematics* |
