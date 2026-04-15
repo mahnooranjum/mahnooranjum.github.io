@@ -127,6 +127,9 @@ ninja.data = [{
           section: "News",},{id: "news-recognized-as-an-exemplary-reviewer-2025-by-ieee-wireless-communications-letters-wcl",
           title: 'Recognized as an Exemplary Reviewer (2025) by IEEE Wireless Communications Letters (WCL).',
           description: "",
+          section: "News",},{id: "news-invited-to-serve-on-the-technical-program-committee-tpc-for-ieee-globecom-2026-communication-amp-amp-information-system-security-track",
+          title: 'Invited to serve on the Technical Program Committee (TPC) for IEEE GLOBECOM 2026,...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
