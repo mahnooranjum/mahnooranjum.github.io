@@ -130,6 +130,9 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-serve-on-the-technical-program-committee-tpc-for-ieee-globecom-2026-communication-amp-amp-information-system-security-track",
           title: 'Invited to serve on the Technical Program Committee (TPC) for IEEE GLOBECOM 2026,...',
           description: "",
+          section: "News",},{id: "news-appointed-head-lab-demonstrator-for-elec9123-design-proficiency-may-sep-2026-school-of-electrical-engineering-and-telecommunications-unsw-sydney",
+          title: 'Appointed Head Lab Demonstrator for ELEC9123 Design Proficiency (May–Sep 2026), School of Electrical...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
