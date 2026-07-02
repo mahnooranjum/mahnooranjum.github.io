@@ -136,6 +136,9 @@ ninja.data = [{
           section: "News",},{id: "news-runner-up-of-group-level-3mt-school-of-electrical-engineering-and-telecommunications-unsw-sydney",
           title: 'Runner-up of Group-Level 3MT, School of Electrical Engineering and Telecommunications, UNSW Sydney.',
           description: "",
+          section: "News",},{id: "news-invited-to-serve-on-the-technical-program-committee-tpc-for-ieee-vtc-spring-2027-protocol-security-and-services-for-wireless-networks-track",
+          title: 'Invited to serve on the Technical Program Committee (TPC) for IEEE VTC-Spring 2027,...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
