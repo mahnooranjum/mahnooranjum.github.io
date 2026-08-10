@@ -29,6 +29,15 @@ nav_order: 2
 ## 📘 Journal Papers
 <div class="section-title"></div>
 
+
+<div class="pubrow">
+  <div class="label">[J9]</div>
+  <div class="content"><strong>Full-Duplex Fluid-Antennas for Integrated Sensing and Backscatter Communication: A DRL-based Fairness Design</strong><br>
+    <small><em><u>M Anjum</u>, D Mishra, A Seneviratne</em></small><br>
+    <a href="">IEEE WCL</a>
+  </div>
+</div>
+
 <div class="pubrow">
   <div class="label">[J8]</div>
   <div class="content"><strong>Energy-efficient Cell-free Integrated Sensing and Backscatter Communication for Sustainable Networks</strong><br>
