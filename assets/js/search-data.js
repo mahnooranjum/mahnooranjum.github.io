@@ -139,6 +139,9 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-serve-on-the-technical-program-committee-tpc-for-ieee-vtc-spring-2027-protocol-security-and-services-for-wireless-networks-track",
           title: 'Invited to serve on the Technical Program Committee (TPC) for IEEE VTC-Spring 2027,...',
           description: "",
+          section: "News",},{id: "news-paper-full-duplex-fluid-antennas-for-integrated-sensing-and-backscatter-communication-a-drl-based-fairness-design-accepted-in-ieee-wcl-authors-m-anjum-d-mishra-a-seneviratne",
+          title: 'Paper “Full-Duplex Fluid-Antennas for Integrated Sensing and Backscatter Communication: A DRL-based Fairness Design”...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
