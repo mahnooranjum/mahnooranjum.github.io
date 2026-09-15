@@ -29,6 +29,14 @@ nav_order: 2
 ## 📘 Journal Papers
 <div class="section-title"></div>
 
+<div class="pubrow">
+  <div class="label">[J10]</div>
+  <div class="content"><strong>Backscatter-Enabled Spectrum Intelligence for Sustainable ISAC: Foundations, Architectures and Challenges</strong><br>
+    <small><em><u>M Anjum</u>, D Mishra, M Matthaiou, A Seneviratne</em></small><br>
+    <a href="">IEEE WCL</a>
+  </div>
+</div>
+
 
 <div class="pubrow">
   <div class="label">[J9]</div>
@@ -105,6 +113,16 @@ nav_order: 2
 
 ## 🎤 Conference Papers
 <div class="section-title"></div>
+
+
+<div class="pubrow">
+  <div class="label">[C14]</div>
+  <div class="content"><strong>Industry-Integrated Feedback-Driven Framework for Project-Based Learning in Engineering Education</strong><br>
+    <small><em>J Zeng,<u>M Anjum</u>, T Zhang, D Mishra, G Thiagarajan, E Ambikairajah</em></small><br>
+    TALE 2026
+  </div>
+</div>
+
 
 <div class="pubrow">
   <div class="label">[C13]</div>
