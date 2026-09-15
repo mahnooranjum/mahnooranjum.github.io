@@ -142,6 +142,12 @@ ninja.data = [{
           section: "News",},{id: "news-paper-full-duplex-fluid-antennas-for-integrated-sensing-and-backscatter-communication-a-drl-based-fairness-design-accepted-in-ieee-wcl-authors-m-anjum-d-mishra-a-seneviratne",
           title: 'Paper “Full-Duplex Fluid-Antennas for Integrated Sensing and Backscatter Communication: A DRL-based Fairness Design”...',
           description: "",
+          section: "News",},{id: "news-paper-backscatter-enabled-spectrum-intelligence-for-sustainable-isac-foundations-architectures-and-challenges-accepted-in-ieee-iotm-authors-m-anjum-d-mishra-m-matthaiou-a-seneviratne",
+          title: 'Paper “Backscatter-Enabled Spectrum Intelligence for Sustainable ISAC: Foundations, Architectures and Challenges” accepted in...',
+          description: "",
+          section: "News",},{id: "news-paper-industry-integrated-feedback-driven-framework-for-project-based-learning-in-engineering-education-accepted-in-ieee-tale-2026-authors-j-zeng-m-anjum-t-zhang-d-mishra-g-thiagarajan-e-ambikairajah",
+          title: 'Paper “Industry-Integrated Feedback-Driven Framework for Project-Based Learning in Engineering Education” accepted in IEEE...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
