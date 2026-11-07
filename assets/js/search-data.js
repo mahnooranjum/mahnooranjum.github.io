@@ -148,6 +148,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-industry-integrated-feedback-driven-framework-for-project-based-learning-in-engineering-education-accepted-in-ieee-tale-2026-authors-j-zeng-m-anjum-t-zhang-d-mishra-g-thiagarajan-e-ambikairajah",
           title: 'Paper “Industry-Integrated Feedback-Driven Framework for Project-Based Learning in Engineering Education” accepted in IEEE...',
           description: "",
+          section: "News",},{id: "news-selected-for-the-final-round-of-the-ieee-comsoc-4mt-competition-at-ieee-globecom-2026",
+          title: 'Selected for the final round of the IEEE COMSOC 4MT Competition at IEEE...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
