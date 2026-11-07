@@ -11,6 +11,7 @@ nav_order: 6
 
 | **Year** | **Conference / Track** |
 |-----------|------------------------|
+| 2027 | IEEE International Conference on Communications (ICC) — *Track: Wireless Communications* |
 | 2026 | IEEE Vehicular Technology Conference (GLOBECOM) — *Track: Protocol, Security and Services for Wireless Networks* |
 | 2026 | IEEE Global Communications Conference (GLOBECOM) — *Track: Communication and Information System Security* |
 | 2026 | IEEE International Conference on Communications (ICC) — *Track: Wireless Communications* |

@@ -33,7 +33,7 @@ nav_order: 2
   <div class="label">[J10]</div>
   <div class="content"><strong>Backscatter-Enabled Spectrum Intelligence for Sustainable ISAC: Foundations, Architectures and Challenges</strong><br>
     <small><em><u>M Anjum</u>, D Mishra, M Matthaiou, A Seneviratne</em></small><br>
-    <a href="">IEEE WCL</a>
+    <a href="">IEEE IOTM</a>
   </div>
 </div>
 

@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 6
 ---
+
+- **Head Lab Demonstrator | [ELEC2134 Circuits and Signals](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/ELEC2134)**  
+  _Sep 2026 – Dec 2026_  
+  School of Electrical Engineering and Telecommunications, UNSW, Sydney
+
 - **Head Lab Demonstrator | [ELEC4601 Digital and Embedded Systems Design](https://www.handbook.unsw.edu.au/undergraduate/courses//ELEC4601)**  
   _Feb 2026 – May 2026_  
   School of Electrical Engineering and Telecommunications, UNSW, Sydney
